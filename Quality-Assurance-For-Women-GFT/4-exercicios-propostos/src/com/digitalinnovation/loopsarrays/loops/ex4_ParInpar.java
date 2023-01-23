@@ -8,7 +8,7 @@ import java.util.Scanner;
  * e a quantidade de números impares.
  */
 
-public class ex4_ex4_ParInpar {
+public class ex4_ParInpar {
     public static void main(String [] args){
         
         Scanner scanner = new Scanner(System.in);
