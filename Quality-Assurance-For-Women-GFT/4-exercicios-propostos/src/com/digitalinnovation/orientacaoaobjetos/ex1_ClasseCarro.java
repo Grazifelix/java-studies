@@ -20,7 +20,7 @@ public class ex1_ClasseCarro {
     }
     
     //metodos get e set para cada atributo da classe
-    void setModelo(){
+    void setModelo(String modelo){
         this.modelo = modelo;
     }
 
@@ -28,7 +28,7 @@ public class ex1_ClasseCarro {
         return modelo;
     }
 
-    void setCor(){
+    void setCor(String cor){
         this.cor = cor;
     }
 
@@ -36,7 +36,7 @@ public class ex1_ClasseCarro {
         return cor;
     }
 
-    void setCapacidadeTanque(){
+    void setCapacidadeTanque(int capacidadeTanque){
         this.capacidadeTanque = capacidadeTanque;
     }
 
