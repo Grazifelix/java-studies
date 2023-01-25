@@ -26,7 +26,7 @@ public class Dev {
         }
     };
 
-    public double calcularTotalXP(){
+    public double calcularTotalXp(){
         return this.conteudosConcluidos
             .stream()
             .mapToDouble(Conteudo::calcularXP)
@@ -43,21 +43,21 @@ public class Dev {
         return nome;
     } 
 
-    //conteudosEscritos
-    public void setconteudosEscritos(Set<Conteudo> conteudosEscritos){
-        this.conteudosInscritos = conteudosEscritos;
+    //conteudos Inscritos
+    public void setConteudosInscritos(Set<Conteudo> conteudosInscritos){
+        this.conteudosInscritos = conteudosInscritos;
     }
 
-    public Set<Conteudo> getconteudosEscritos(){
+    public Set<Conteudo> getConteudosInscritos(){
         return conteudosInscritos;
     } 
 
     //conteudosConcluidos
-    public void setconteudosConcluidos(Set<Conteudo> conteudosConcluidos){
+    public void setConteudosConcluidos(Set<Conteudo> conteudosConcluidos){
         this.conteudosConcluidos = conteudosConcluidos;
     }
 
-    public Set<Conteudo> getconteudosConcluidos(){
+    public Set<Conteudo> getConteudosConcluidos(){
         return conteudosConcluidos;
     } 
 
