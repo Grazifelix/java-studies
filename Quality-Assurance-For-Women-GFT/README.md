@@ -9,4 +9,5 @@
 5. **Desafio POO Dio:** *um desafio de projeto utilizando conceito de Programação Orientada a Objetos, Collections e Stream API;*
 6. **Teste de API dos manuais aos automatizados:** *teste manual e automatizado da API *Swagger Petstore* usando o Postman;*
 7. **Restful assured para automação de testes de API:** *um desafio de projeto de teste manual e automatizado da API *REstful Booker* usando o Postman;*
+8. **Dia a dia de um QA: a prática de testes manuais funcionais:** *desafio de projeto de *Quality Assurence*;*
 
