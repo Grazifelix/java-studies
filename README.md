@@ -4,7 +4,7 @@ O repositório para meus estudos pessoais de java, cursos e bootcamps.
 
 ## Indice
 1. [Quality Assurance For Women GFT](https://github.com/Grazifelix/java-studies/tree/main?tab=readme-ov-file#1-quality-assurance-for-women-gft)
-2. [2.SOLID with Java]()
+2. [2.SOLID with Java](https://github.com/Grazifelix/java-studies/tree/main?tab=readme-ov-file#2solid-with-java)
 
 ## Topics
 #### [1. Quality Assurance For Women GFT:](https://github.com/Grazifelix/java-studies/tree/main/01.Quality-Assurance-For-Women-GFT)
@@ -32,6 +32,7 @@ O repositório para meus estudos pessoais de java, cursos e bootcamps.
 - Testes de Api
 ```
 
-#### [2.SOLID with Java]()
+#### [2.SOLID with Java](https://github.com/Grazifelix/java-studies/tree/main/02.SOLID-with-Java)
+
 Estudos sobre o padrão SOLID com a linguagem Java.
-> Studies about the SOLID standard with Java Language.
+> Studies about the SOLID standard with Java the Language.
